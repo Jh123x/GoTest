@@ -17,14 +17,12 @@ import (
     "fmt"
     "testing"
 
-    "github.com/Jh123x/gotest"
+    "github.com/Jh123x/gotest/assert"
 )
 
 func TestAdd(t *testing.T) {
-    gotest.Test(t, func(t *gotest.T) {
-        assert.Equal(Add(1, 2), 3)
-        assert.Equal(Add(1, 2), 4)
-    })
+    assert.Equal(1+ 2, 3, "1 + 2 should be 3")
+    assert.Equal(1+ 2, 4, "1 + 2 should be 4")
 }
 ```
 
