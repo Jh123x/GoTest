@@ -1,5 +1,8 @@
 ## Pointer Asserts
 
+Pointer asserts are used to check if a pointer is `nil` or not.
+To find out more about how the asserts can be used, you can take a look at the unit tests [here](../assert/pointers_test.go).
+
 ### Nil
 
 Nil checks if the pointer is nil.

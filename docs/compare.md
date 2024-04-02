@@ -1,5 +1,8 @@
 ## Comparison Asserts
 
+Comparison asserts are used to compare two values.
+To find out more about how the asserts can be used, you can take a look at the unit tests [here](../assert/comparison_test.go).
+
 ### Equal
 
 Equal checks if the two values are equal.

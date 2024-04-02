@@ -1,5 +1,8 @@
 ## Bool Asserts
 
+Bool asserts are used to check if a value is `True` or `False`.
+To find out more about how the asserts can be used, you can take a look at the unit tests [here](../assert/bool_test.go).
+
 ### True
 
 True asserts that the value is `True`.
