@@ -2,10 +2,11 @@
 
 A faster testing library using generics
 
-## Goals
+## Installation
 
-1. Faster debugging (Different types will be flagged up during compile time)
-2. Faster testing (No use of `reflect` to check types)
+```bash
+go get github.com/Jh123x/gotest
+```
 
 ## Usage
 
@@ -27,8 +28,11 @@ func TestAdd(t *testing.T) {
 }
 ```
 
-## Installation
+## Documentation
 
-```bash
-go get github.com/Jh123x/gotest
-```
+To view the full documentation, visit the docs [here](./docs/index.md "Go Test Documentation")
+
+## Goals
+
+1. Faster debugging (Different types will be flagged up during compile time)
+2. Faster testing (No use of `reflect` to check types)
