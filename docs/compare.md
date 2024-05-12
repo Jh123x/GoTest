@@ -1,7 +1,7 @@
 ## Comparison Asserts
 
 Comparison asserts are used to compare two values.
-To find out more about how the asserts can be used, you can take a look at the unit tests [here](../assert/comparison_test.go).
+To find out more about how the asserts can be used, you can take a look at the unit tests [here](https://github.com/Jh123x/GoTest/blob/main/assert/comparison_test.go "Comparison Unit Test").
 
 ### Equal
 

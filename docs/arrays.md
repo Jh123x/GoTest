@@ -1,7 +1,7 @@
 ## Array Asserts
 
 Array asserts are used to check if an array contains a value, does not contain a value, contains all the values, and if two arrays are equal.
-To find out more about how the asserts can be used, you can take a look at the unit tests [here](../assert/arrays_test.go).
+To find out more about how the asserts can be used, you can take a look at the unit tests [here](https://github.com/Jh123x/GoTest/blob/main/assert/arrays_test.go "Array Test").
 
 ### Contains
 
